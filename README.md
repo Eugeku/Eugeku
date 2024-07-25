@@ -1,5 +1,7 @@
     Hi there! 👋
-    I'm Eugene, a passionate front-end developer and SDET(java, js stack) with a love for creating beautiful and user-friendly web applications. Welcome to my GitHub profile!
+    I'm Eugene, a passionate front-end developer and SDET(java, js stack) with a 
+    love for creating beautiful and user-friendly web applications. 
+    Welcome to my GitHub profile!
 
     About Me
     🌱 Always learning and exploring new web technologies
