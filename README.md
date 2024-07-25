@@ -4,8 +4,8 @@
     About Me
     🌱 Always learning and exploring new web technologies
     💬 Ask me about JavaScript, React, CSS, and HTML, Java
-    📫 How to reach me: [] | [Your LinkedIn]
-    ⚡ Fun fact: [A Fun Fact About You]
+    📫 How to reach me: 
+    ⚡ Fun fact: 
     
     Skills
     Languages: JavaScript, HTML, CSS
@@ -23,7 +23,5 @@
     Check out my contributions to open source projects:
     Repository Name: tbd
     Repository Name: tbd
-    
-    Feel free to connect with me or check out my work:
     
     Thank you for visiting my profile! 😊
