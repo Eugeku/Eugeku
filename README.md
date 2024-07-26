@@ -10,10 +10,10 @@
     ⚡ Fun fact: 
     
     Skills
-    Languages: JavaScript, HTML, CSS
-    Frameworks/Libraries: React, Vue.js, Bootstrap, Tailwind CSS
-    Tools: Git, Webpack, npm, VS Code
-    Design: Figma, Adobe XD, Sketch
+    Languages: JavaScript, HTML, CSS, Java
+    Frameworks/Libraries: React, Next.js, Selenium, JUnit, TestNG, Rest Assured, Cucumber, Cypress
+    Tools: Git, Webpack, npm, Gradle, Maven, VS Code, Idea Intelij, Postman, Applitools
+    Design: Figma, Sketch
     
     Projects
     Here are some of my recent projects:
