@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 </h1>
 <pre>About Me
 🌱 Always learning and exploring new web technologies
-💬 Ask me about JavaScript, React, CSS, and HTML, Java
+💬 Ask me about Java, JavaScript, React, CSS and HTML
 ⚡ Fun fact: NaN === NaN; // false
 </pre>
 
