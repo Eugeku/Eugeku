@@ -1,31 +1,3 @@
-
-
-    About Me
-    🌱 Always learning and exploring new web technologies
-    💬 Ask me about JavaScript, React, CSS, and HTML, Java
-    📫 How to reach me: 
-    ⚡ Fun fact: 
-    
-    Skills
-    Languages: JavaScript, HTML, CSS, Java
-    Frameworks/Libraries: React, Next.js, Selenium, JUnit, TestNG, Rest Assured, Cucumber, Cypress
-    Tools: Git, Webpack, npm, Gradle, Maven, VS Code, Idea Intelij, Postman, Applitools
-    Design: Figma, Sketch
-    
-    Projects
-    Here are some of my recent projects:
-    Project Name: tbd
-    Project Name: tbd 
-    Project Name: tbd
-    
-    Contributions
-    Check out my contributions to open source projects:
-    Repository Name: tbd
-    Repository Name: tbd
-    
-    Thank you for visiting my profile! 😊
-
-[WIP]
 <h1 align="left"> Hi there! 👋 I'm Eugene, a passionate front-end developer and SDET(java, js stack) with a love for creating beautiful and user-friendly web applications. <br>
 Welcome to my GitHub profile!
 </h1>
@@ -43,7 +15,7 @@ Welcome to my GitHub profile!
 
 <h2 align="left" id="stack"> Tech stack</h2>
 
-> General
+>Programming languages ​​and technologies
 
 <table width='100%'>
   <tr>
@@ -69,14 +41,21 @@ Welcome to my GitHub profile!
       <a href="https://www.w3.org/TR/2011/WD-html5-20110405/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html 5" />
       </a>
-      <br>Html 5
+      <br>HTML 5
     </td>
          <td align="center" width="110" height="90"> 
       <a href="https://www.w3.org/TR/css3-roadmap/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css 3" />
       </a>
-      <br>CSS
+      <br>CSS 3
     </td>
+  </tr>
+</table>
+
+> Tools and libraries for development and design
+
+<table width='100%'>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="https://www.figma.com/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
@@ -95,20 +74,12 @@ Welcome to my GitHub profile!
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="https://github.com/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>Github
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="https://bitbucket.org/" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="36" height="36" alt="bitbucket" />
-      </a>
-      <br>BitBucket
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="https://bitbucket.org/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="36" height="36" alt="bitbucket" />
@@ -122,7 +93,7 @@ Welcome to my GitHub profile!
       <br>Gitlab
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="" >
+      <a href="https://www.docker.com/" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
       <br>Docker
@@ -140,59 +111,15 @@ Welcome to my GitHub profile!
       <br>Gradle
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://grafana.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="36" height="36" alt="grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://www.elastic.co/kibana">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" width="36" height="36" alt="kibana" />
-      </a>
-      <br>Kibana
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://www.datadoghq.com/">
-        <img src="https://brandeps.com/logo-download/D/Datadog-logo-vector-01.svg" width="36" height="36" alt="datadog" />
-      </a>
-      <br>DataDog
-    </td>
-    <td align="center" width="110" height="90">
       <a href="https://spring.io/projects/spring-framework">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="36" height="36" alt="spring" />
       </a>
       <br>Spring
     </td>
-    <td align="center" width="110" height="90">
-      <a href="https://www.jenkins.io/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="https://www.atlassian.com/es/software/jira">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="spring" />
-      </a>
-      <br>Jira
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://wiremock.org/">
-        <img src="https://camo.githubusercontent.com/e207e4bffe0d591696488a934c0c4de93baa152e790a4dc9fedc96f50e0e55f9/68747470733a2f2f776972656d6f636b2e6f72672f696d616765732f6c6f676f732f776972656d6f636b2f6c6f676f5f776964652e737667" width="36" height="36" alt="wiremock" />
-      </a>
-      <br>Wiremock
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://www.postman.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="36" height="36" alt="postman" />
-      </a>
-      <br>Postman
-    </td>
   </tr>
 </table>
 
-> Testing
+> Tools and libraries for testing
 
 <table width='100%'>
   <tr>
@@ -207,6 +134,18 @@ Welcome to my GitHub profile!
         <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="36" height="36" alt="junit" />
       </a>
       <br>JUnit
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://cucumber.io/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="36" height="36" alt="cucumber" />
+      </a>
+      <br>Cucumber
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://rest-assured.io/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="restassured" />
+      </a>
+      <br>REST-assured
     </td>
     <td align="center" width="110" height="90">
       <a href="https://www.selenium.dev/">
@@ -225,6 +164,44 @@ Welcome to my GitHub profile!
         <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="36" height="36" alt="playwright" />
       </a>
       <br>Playwright
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://wiremock.org/">
+        <img src="https://camo.githubusercontent.com/e207e4bffe0d591696488a934c0c4de93baa152e790a4dc9fedc96f50e0e55f9/68747470733a2f2f776972656d6f636b2e6f72672f696d616765732f6c6f676f732f776972656d6f636b2f6c6f676f5f776964652e737667" width="36" height="36" alt="wiremock" />
+      </a>
+      <br>Wiremock
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://www.postman.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="36" height="36" alt="postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://eslint.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>ESLint
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="https://prettier.io/">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://www.gebish.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="geb" />
+      </a>
+      <br>Geb
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://spockframework.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="spock" />
+      </a>
+      <br>Spock
     </td>
     <td align="center" width="110" height="90">
       <a href="https://www.browserstack.com/home">
@@ -246,9 +223,9 @@ Welcome to my GitHub profile!
     </td>
     <td align="center" width="110" height="90">
       <a href="https://allurereport.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="alure" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="allure" />
       </a>
-      <br>Alure report
+      <br>Allure report
     </td>
     <td align="center" width="110" height="90">
       <a href="https://www.deque.com/axe/">
@@ -257,70 +234,50 @@ Welcome to my GitHub profile!
       <br>Axe
     </td>
   </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="https://www.gebish.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="geb" />
-      </a>
-      <br>Geb
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://spockframework.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="spock" />
-      </a>
-      <br>Spock
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://rest-assured.io/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="restassured" />
-      </a>
-      <br>REST-assured
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="https://cucumber.io/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="36" height="36" alt="cucumber" />
-      </a>
-      <br>Cucumber
-    </td>
-  </tr> 
 </table>
 
-> Code quality
+> CI/CD, DevOps, loggining and monitoring
 
 <table width='100%'>
   <tr>
-     <td align="center" width="110" height="90">
-      <a href="https://eslint.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>ESLint
+    <td align="center" width="110" height="90">
+        <a href="https://www.jenkins.io/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="jenkins" />
+        </a>
+        <br>Jenkins
     </td>
     <td align="center" width="110" height="90">
-      <a href="https://prettier.io/">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      <a href="https://grafana.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="36" height="36" alt="grafana" />
       </a>
-      <br>Prettier
+      <br>Grafana
     </td>
-  </tr> 
+    <td align="center" width="110" height="90">
+      <a href="https://www.elastic.co/kibana">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" width="36" height="36" alt="kibana" />
+      </a>
+      <br>Kibana
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://www.datadoghq.com/">
+        <img src="https://brandeps.com/logo-download/D/Datadog-logo-vector-01.svg" width="36" height="36" alt="datadog" />
+      </a>
+      <br>DataDog
+    </td>
+  </tr>
 </table>
 
-> Frontend
+> Project Management Tools
 
 <table width='100%'>
-</table>
-
-> Mobile
-
-<table width='100%'>
-</table>
-
-> Backend
-
-<table width='100%'>
-</table>
-
-> Other
-<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="https://www.atlassian.com/es/software/jira">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="spring" />
+      </a>
+      <br>Jira
+    </td>
+  </tr>
 </table>
 
 <br>
