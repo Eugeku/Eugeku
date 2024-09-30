@@ -1,14 +1,15 @@
-<h1 align="left"> Hi there! 👋 I'm Eugene, a passionate front-end developer and SDET(java, js stack) with a love for creating beautiful and user-friendly web applications. <br>
-Welcome to my GitHub profile!
-</h1>
-<pre>About Me
-🌱 Always learning and exploring new web technologies
-💬 Ask me about Java, JavaScript, React, CSS and HTML
-⚡ Fun fact: NaN === NaN; // false
-</pre>
+<h1 align="left"> Hi there! 👋 I'm Eugene</h1>
+<h2>Passionate front-end developer and SDET(java, js stack) with a love for creating beautiful and user-friendly web applications. <br>
+Welcome to my GitHub profile!</h2>
+
+<h3>About Me</h3>
+
+ * 🌱 Always learning and exploring new web technologies
+ * 💬 Ask me about Java, JavaScript, React, CSS and HTML
+ * ⚡ Fun fact: NaN === NaN; // false
 
 <br>
-<h2> 📫 Contact me via:  </h2>
+<h2>📫 Contacts:</h2>
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:eugenekuzora@gmail.com)&emsp;
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://es.linkedin.com/in/eugene-kuzora-a7140115b)&emsp;
