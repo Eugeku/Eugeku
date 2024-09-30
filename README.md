@@ -284,7 +284,8 @@ Welcome to my GitHub profile!
 
 <h2> ⚙️ Projects & contributions:  </h2>
 
-[TAT learning project](https://github.com/Eugeku/TAT_JAVA_Kuzora_Task4)&emsp;
+ - [TAT learning project](https://github.com/Eugeku/TAT_JAVA_Kuzora_Task4)&emsp;
+ - [CSS mem slider](https://github.com/Eugeku/cssMemeSlider) [Deploy](https://eugeku.github.io/cssMemeSlider/)&emsp;
 
 TBD
 
@@ -300,5 +301,3 @@ TBD
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eugeku)
