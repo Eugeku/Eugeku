@@ -58,6 +58,24 @@
       </a>
       <br>js
     </td>
+    <td align="center" width="110" height="90">
+      <a href="https://openjdk.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="36" height="36" alt="java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://maven.apache.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="36" height="36" alt="maven" />
+      </a>
+      <br>Maven
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="https://groovy-lang.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" width="36" height="36" alt="groovy" />
+      </a>
+      <br>Groovy
+    </td>
 <!--     <td align="center" width="110" height="90">
       <a href="">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
