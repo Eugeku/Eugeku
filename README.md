@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 <pre>About Me
 🌱 Always learning and exploring new web technologies
 💬 Ask me about JavaScript, React, CSS, and HTML, Java
-⚡ Fun fact: 
+⚡ Fun fact: NaN === NaN; // false
 </pre>
 
 <br>
@@ -282,7 +282,8 @@ Welcome to my GitHub profile!
 
 <br>
 
-<h2> 📫 Projects & contributions:  </h2>
+<h2> ⚙️ Projects & contributions:  </h2>
+
 [TAT learning project](https://github.com/Eugeku/TAT_JAVA_Kuzora_Task4)&emsp;
 
 TBD
