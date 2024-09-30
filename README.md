@@ -13,9 +13,9 @@ Welcome to my GitHub profile!
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:eugenekuzora@gmail.com)&emsp;
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://es.linkedin.com/in/eugene-kuzora-a7140115b)&emsp;
 
-<h2 align="left" id="stack"> Tech stack</h2>
+<h2 align="left" id="stack">Tech stack: </h2>
 
->Programming languages ​​and technologies
+> Programming languages ​​and technologies
 
 <table width='100%'>
   <tr>
@@ -287,3 +287,17 @@ Welcome to my GitHub profile!
 
 TBD
 
+<h2> ⚙️ GitHub statistics:  </h2>
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=eugeku&theme=dark&background=000000" alt="webDev's" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eugeku&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eugeku)
