@@ -287,7 +287,9 @@ Welcome to my GitHub profile!</h2>
 
  - [TAT learning project](https://github.com/Eugeku/TAT_JAVA_Kuzora_Task4)&emsp;
  - [CSS mem slider](https://github.com/Eugeku/cssMemeSlider) [Deploy](https://eugeku.github.io/cssMemeSlider/)&emsp;
-
+ - [Shelter](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/shelter) [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/shelter/main)&emsp;
+ - [Audio-player](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/js30-audio-player) [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/js30/js30-audio-player/)&emsp;
+ - [Image-gallery](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/js30-image-gallery) [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/js30/js30-image-gallery/)&emsp;
 TBD
 
 <h2> ⚙️ GitHub statistics:  </h2>
