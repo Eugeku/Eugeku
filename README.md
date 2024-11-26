@@ -290,6 +290,7 @@ Welcome to my GitHub profile!</h2>
  - [Shelter](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/shelter) - [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/shelter/main)&emsp;
  - [Audio-player](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/js30-audio-player) - [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/js30/js30-audio-player/)&emsp;
  - [Image-gallery](https://github.com/Eugeku/eugeku-JSFEPRESCHOOL2024Q2/tree/js30-image-gallery) - [Deploy](https://eugeku.github.io/eugeku-JSFEPRESCHOOL2024Q2/js30/js30-image-gallery/)&emsp;
+ - [webpack-empty-template](https://github.com/Eugeku/webpack-empty-template)&emsp;
 
 TBD
 
